@@ -1,0 +1,93 @@
+body{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight:600;
+}
+.back-page{
+    background: url('http://localhost:8088/profile/img/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.footer-landpage{
+    background-color: rgba(0,0,0, 0.8);
+    border-top: solid 1px #535353;
+    color: #acacac;
+    left: 0px;
+    right: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    position: fixed;
+    bottom: 0px;
+}
+.panel-inicial{
+    background-color: black;
+    border-width: 5px;
+    border-color: lightgray;
+    height: 600px;
+    width: 800px;
+    text-align: center;
+    margin-left: 300px;
+    background: url('http://localhost:8088/profile/img/bg-principal.jpg');
+    background-repeat:no-repeat;
+    background-position: center;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+.back-page-pessoal{
+    background: url('http://localhost:8088/profile/img/bg-personal.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.back-page-profissional{
+    background: url('http://localhost:8088/profile/img/bg-profissional.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.panel-pessoal{
+    background-color: whitesmoke;
+    border-width: 5px;
+    border-color: lightgray;
+    height: 670px;
+    width: 1150px;
+    text-align: center;
+    margin-left: 150px;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.panel-profissional{
+    background-color: whitesmoke;
+    border-width: 5px;
+    border-color: lightgray;
+    height: 670px;
+    width: 1150px;
+    text-align: center;
+    margin-left: 150px;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.esquerda{
+    background-color: whitesmoke;
+    float:left;
+    width: 50%;
+    height: 660px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 14px;
+    text-align: left;
+    padding-left: 15px;
+}
+.direita{
+    background-color: cornflowerblue;
+    font-size: 14px;
+    text-align: left;
+    float:right;
+    width: 50%;
+    height: 660px;
+    padding-left: 15px;
+}
+hr{
+    background-color: lightgray;
+    height: 2px;
+}
+teste{
+    text-align: left;
+}

@@ -1,0 +1,1 @@
+<script src="http://localhost:8088/profile/js/vendor/bootstrap/bootstrap.js"></script>
